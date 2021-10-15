@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CV Muhammad Faqih Jundullah</title>
+    </head>
+    <body bgcolor="black" text="white">
+        <h1 align="center"><font face="Algerian" >Curriculum Vitae</font></h1>
+        <center><img src="https://media.discordapp.net/attachments/894919708938223657/894919926408704010/bg1.jpeg" alt="profile" width="165px"></center>
+        <br>
+        <br>
+        <hr>
+        <h2 align="left"><font face="Algerian" >Biodata</font></h2>
+        <ol type="1">
+            <li>Nama : Muhammad Faqih Judullah</li>
+            <li>Temapat, tanggal lahir : Jakarta, 11 Januari 2003</li>
+            <li>Jenis Kelamin : Laki - laki</li>
+            <li>Agama : Islam</li>
+            <li>Kewarganegaraan : Indonesia</li>
+            <li>Alamat : Jl. Belimbing 8 no. 126 Rt. 06 Rw. 006 Perumnas 1 Kel. Kranji Kec. Bekasi Barat</li>
+            <li>No. telp : 083806305997</li>
+            <li>E-mail : mfaqihjundullah@gmail.com</li>
+            <li><a href="https://www.instagram.com/f_jundullah/">Instagram saya</a></li>
+            <li><a href="https://www.facebook.com/faqihjundullah1124">Facebook saya</a></li>
+        </ol>
+        <h2 align="left"><font face="Algerian" >Hobi</font></h2>
+        <ol type="1">
+            <li>Membaca</li>
+            <li>Main game</li>
+            <li>Jalan-jalan</li>
+        </ol>
+        <h2 align="left"><font face="Algerian" >Riwayat Pendidikan</font></h2>
+        <table border="1">
+            <tbody>
+                <tr>
+                    <td>Nomer</td><td>Nama Lembaga</td><td>Tahun</td>
+                </tr>
+                <tr>
+                    <td>1.</td><td>SD Al-Irsyad Al-Islamiyyah</td><td>2008-2014</td>
+                </tr>
+                <tr>
+                    <td>2.</td><td>SMP IT Al Hassan</td><td>2014-2017</td>
+                </tr>
+                <tr>
+                	<td>3.</td><td>MA Al hassan</td><td>2017-2018</td>
+                </tr>
+                <tr>
+                    <td>4.</td><td>SMK IT Ibnu Rusyd</td><td>2018-2021</td>
+                </tr>
+                <tr>
+                    <td>5.</td><td>STT Terpadu Nurul Fikri</td><td>2021-Sekarang</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
